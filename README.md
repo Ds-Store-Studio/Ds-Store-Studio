@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🎭 DS Store — Créez des expériences roleplay inoubliables
 
-<!--
-**Ds-Store-Studio/Ds-Store-Studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue chez **DS Store**, le studio dédié à la création de **scripts roleplay uniques** et immersifs pour **toutes les plateformes** ! 🌐
 
-Here are some ideas to get you started:
+## 🚀 Ce que nous faisons
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Chez DS Store, nous croyons que chaque serveur mérite une identité forte et une ambiance mémorable.  
+Nous développons des **scripts RP sur-mesure** pour :
+
+- 🕹️ **FiveM**
+- 🖥️ **Garry’s Mod**
+- 🧩 Toutes plateformes supportant le roleplay scripté
+
+## 🎯 Notre mission
+
+> Offrir des **expériences roleplay profondes et originales** grâce à une combinaison de créativité, performance, et technologie.
+
+## 🛠️ Nos points forts
+
+- 🔧 Développement de scripts personnalisés
+- 🌍 Compatibilité multi-plateformes
+- 💡 Concepts RP originaux et immersifs
+- ⏱️ Livraison rapide & support réactif
+
+## 📬 Contact
+
+📧 Email pro : `contact.dsstore.fr@gmail.com`  
+📱 Instagram / Discord / Autres liens à venir
+
+- soon
+
+🧠 **Rejoignez l’univers DS Store et donnez vie à vos idées RP** !
+
